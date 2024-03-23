@@ -2,9 +2,6 @@
  * Criado por: Gabriel Capelini de Oliveira
  * 
  */
-
-package udemyPooOne;
-
 import entities.Triangle;
 import java.util.Locale;
 import java.util.Scanner;
