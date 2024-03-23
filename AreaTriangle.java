@@ -2,7 +2,7 @@
  * Criado por: Gabriel Capelini de Oliveira
  * 
  */
-import entities.Triangle;
+import Triangle;
 import java.util.Locale;
 import java.util.Scanner;
 
