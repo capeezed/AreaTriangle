@@ -1,3 +1,3 @@
 # JavaFiles
-Training my java skills.
-Some of my java codes.
+Both files need each other to work.
+
