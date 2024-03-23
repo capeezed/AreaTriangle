@@ -2,8 +2,6 @@
  * Criado por: Gabriel Capelini de Oliveira
  */
 
-package entities;
-
 public class Triangle 
 {	
 	
